@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/enablementCapstone" mode="merge"/>
+    <filter root="/content/enablementCapstone" mode="merge"/>
+    <filter root="/content/dam/enablementCapstone" mode="merge"/>
+    <filter root="/content/experience-fragments/enablementCapstone" mode="merge"/>
+</workspaceFilter>
